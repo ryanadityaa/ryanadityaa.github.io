@@ -446,7 +446,7 @@ nav ul li a:hover{
     .container-dua{
         flex-direction: column;
         height: 140%;
-        padding-bottom: 110px;
+          padding-bottom: 90px;
         
     }
     .container-dua .foto .bg-foto-1{
